@@ -19,3 +19,8 @@ body, html{
 .servicos{
 	background-color:#D3D1D1; 
 }
+
+footer{
+	color: white;
+	background-image: radial-gradient(circle, #051937, #171228, #190a1a, #12040d, #000000);
+}
